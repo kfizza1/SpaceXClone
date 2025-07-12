@@ -1,0 +1,35 @@
+@media screen and (max-width:1025px) {
+    header{
+        height: 85px;
+    }
+    .logo{
+        left: auto;
+    }
+    nav{
+        display: none
+    }
+    .inner-features{
+        bottom: 15%;
+        left: 5%;
+    }
+    .inner-features h1{
+        font-size: 32px;
+    }
+    .inner-features h2{
+        font-size: 18px;
+    }
+    .inner-features .learnBtn,
+    .inner-features .rewatchBtn{
+        padding: 5px;
+    }
+    .right-nav .show{
+        width: 250px;
+    }
+    .sideNav a{
+        display: none;
+    }
+    .footerLinks{
+        flex-direction: column;
+        gap: 15px;
+    }
+}
