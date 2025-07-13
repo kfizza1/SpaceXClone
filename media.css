@@ -28,6 +28,9 @@
     .sideNav a{
         display: none;
     }
+    .five .bg-five{
+        background-size: contain;
+    }
     .footerLinks{
         flex-direction: column;
         gap: 15px;
