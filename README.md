@@ -1,4 +1,6 @@
-# 🚀 SpaceX Landing Page Clone A fully responsive clone of the official [SpaceX](https://www.spacex.com) homepage. This project is built using **HTML**, **CSS**, and **JavaScript** for practice and learning purposes.
+# 🚀 SpaceX Landing Page Clone
+---
+## A fully responsive clone of the official [SpaceX](https://www.spacex.com) homepage. This project is built using **HTML**, **CSS**, and **JavaScript** for practice and learning purposes.
 --- 
 ## 🌐 Live Demo 🔗 (https://kfizza1.github.io/SpaceXClone/)
 ---
